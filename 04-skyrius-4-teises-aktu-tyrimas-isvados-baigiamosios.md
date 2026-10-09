@@ -122,7 +122,7 @@ Termino praleidimas be atnaujinimo yra atsisakymo nagrinėti pagrindas (69 strai
 >
 > Prie prašymo gali būti pridedamas siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir ekspertų sąrašas, specialistų išvados bei kiti dokumentai ir medžiaga. Prie kiekvieno liudytojo pavardės nurodoma, kokias aplinkybes jis gali patvirtinti.
 >
-> Prašymas ir šio straipsnio trečiojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
+> Prašymas ir šio straipsnio trečiojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 41¹ straipsnyje nustatyta tvarka.
 
 *e-TAR redakcinė pastaba:* [2 d.] Straipsnio dalies pakeitimai: Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
 
@@ -136,7 +136,7 @@ Pirmoji dalis išvardija 10 privalomų elementų: adresatas; pareiškėjo pavadi
 
 Antroji dalis reguliuoja pasirašymą: prašymą pasirašo institucijos vadovas; Vyriausybės prašymas turi būti paremtas Vyriausybės nutarimu; Seimo narių grupės prašymą pasirašo visi Seimo nariai, nurodydami atstovą, o parašai tvirtinami Seimo Pirmininko ar pavaduotojo parašu (plg. 32 straipsnio trečiąją dalį). Elektroniniu būdu teikiami prašymai pasirašomi kvalifikuotu elektroniniu parašu. Ši dalis pakeista 2021 m. įstatymu Nr. XIV-426.
 
-Trečioji dalis nustato privalomus priedus: ginčijamo akto (nuostatos) tekstą, atstovo įgaliojimus ir patvirtintus vertimus (20 straipsnis). Ketvirtoji dalis numato fakultatyvius priedus: siūlomų liudytojų ir ekspertų sąrašą (nurodant, kokias aplinkybes kiekvienas liudytojas gali patvirtinti), specialistų išvadas ir kitus dokumentus. Penktoji dalis nukreipia į 41¹ straipsnį (šaltinyje – „411 straipsnis“) dėl pateikimo būdo.
+Trečioji dalis nustato privalomus priedus: ginčijamo akto (nuostatos) tekstą, atstovo įgaliojimus ir patvirtintus vertimus (20 straipsnis). Ketvirtoji dalis numato fakultatyvius priedus: siūlomų liudytojų ir ekspertų sąrašą (nurodant, kokias aplinkybes kiekvienas liudytojas gali patvirtinti), specialistų išvadas ir kitus dokumentus. Penktoji dalis nukreipia į 41¹ straipsnį dėl pateikimo būdo.
 
 Reikalavimų nesilaikymas yra prašymo grąžinimo pagrindas (70 straipsnio 1 punktas); grąžinimas neatima teisės kreiptis iš naujo pašalinus trūkumus (70 straipsnio antroji dalis). Pagal e-TAR pastabas straipsnis keistas 2015, 2019 ir 2021 m.
 
@@ -166,7 +166,7 @@ Reikalavimų nesilaikymas yra prašymo grąžinimo pagrindas (70 straipsnio 1 pu
 >
 > 2) ginčijamo teisės akto (jo nuostatos) tekstas.
 >
-> Teismo nutartis Konstituciniam Teismui pateikiama šio įstatymo 411 straipsnyje nustatyta tvarka.
+> Teismo nutartis Konstituciniam Teismui pateikiama šio įstatymo 41¹ straipsnyje nustatyta tvarka.
 >
 > Konstitucinis Teismas, išnagrinėjęs bylą, grąžina atitinkamam teismui atsiųstą sustabdytąją bylą.
 
@@ -182,7 +182,7 @@ Pirmoji dalis nustato kreipimosi pagrindą ir pareigą: jei yra pagrindo manyti,
 
 Antroji dalis nustato, kad teismai kreipiasi nutartimi, ir išvardija jos turinį: priėmimo laikas ir vieta; teismo pavadinimas ir adresas; sudėtis ir dalyvaujantys asmenys; trumpa bylos esmė ir įstatymai, kuriais šalys grindžia reikalavimus; teismo teisiniai argumentai dėl prieštaravimo; suformuluotas prašymas. Teisiniai argumentai (5 punktas) yra 64 straipsnio „teisiškai motyvuotos abejonės“ išraiška.
 
-Trečioji dalis reikalauja pridėti sustabdytą bylą ir ginčijamo akto (nuostatos) tekstą. Ketvirtoji dalis nukreipia į 41¹ straipsnį (šaltinyje – „411 straipsnis“) dėl pateikimo būdo. Penktoji dalis numato, kad išnagrinėjęs bylą Konstitucinis Teismas grąžina sustabdytą bylą teismui.
+Trečioji dalis reikalauja pridėti sustabdytą bylą ir ginčijamo akto (nuostatos) tekstą. Ketvirtoji dalis nukreipia į 41¹ straipsnį dėl pateikimo būdo. Penktoji dalis numato, kad išnagrinėjęs bylą Konstitucinis Teismas grąžina sustabdytą bylą teismui.
 
 Teismui Konstituciniame Teisme atstovauja nutartį priėmęs teisėjas ar kolegijos pirmininkas (32 straipsnio trečioji dalis). Sustabdytos bylos šalys Konstitucinio Teismo byloje nėra dalyvaujantys asmenys (31 straipsnis). Gavęs nutarimą, teismas tęsia bylos nagrinėjimą, vadovaudamasis 72 straipsniu: jei aktas pripažintas prieštaraujančiu Konstitucijai, jis negali būti taikomas. Nutarties trūkumai gali lemti jos grąžinimą (70 straipsnio 1 punktas).
 
@@ -234,7 +234,7 @@ Teismui Konstituciniame Teisme atstovauja nutartį priėmęs teisėjas ar kolegi
 >
 > 7) visų dokumentų ir kitos medžiagos, surašytų ne lietuvių kalba, įstatymų nustatyta tvarka patvirtinti vertimai į lietuvių kalbą.
 >
-> Prašymas ir šio straipsnio ketvirtojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
+> Prašymas ir šio straipsnio ketvirtojoje dalyje nurodyti jo priedai Konstituciniam Teismui pateikiami šio įstatymo 41¹ straipsnyje nustatyta tvarka.
 
 *e-TAR redakcinė pastaba:* [1 d. 2 p.] Straipsnio punkto pakeitimai: Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
 
@@ -244,7 +244,7 @@ Teismui Konstituciniame Teisme atstovauja nutartį priėmęs teisėjas ar kolegi
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 
-67¹ straipsnis (šaltinyje – „671“) į įstatymą įrašytas 2019 m. liepos 16 d. įstatymu Nr. XIII-2328 ir nustato individualaus prašymo, kurį teikia Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodytas asmuo (65 straipsnio antroji dalis), turinio ir formos reikalavimus. Jie detalesni nei 66 straipsnio reikalavimai institucijoms, nes pareiškėjas yra privatus asmuo, o Teismas turi patikrinti specialias priimtinumo sąlygas.
+67¹ straipsnis į įstatymą įrašytas 2019 m. liepos 16 d. įstatymu Nr. XIII-2328 ir nustato individualaus prašymo, kurį teikia Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodytas asmuo (65 straipsnio antroji dalis), turinio ir formos reikalavimus. Jie detalesni nei 66 straipsnio reikalavimai institucijoms, nes pareiškėjas yra privatus asmuo, o Teismas turi patikrinti specialias priimtinumo sąlygas.
 
 Pirmoji dalis išvardija 11 elementų. Be bendrųjų (adresatas, aktą priėmusi institucija, tikslūs akto duomenys, normos, suteikiančios teisę kreiptis, nagrinėjimo pagrindai, suformuluotas prašymas), joje reikalaujama: išsamių kontaktinių duomenų, įskaitant elektroninio pristatymo dėžutės adresą (2 punktas, pakeistas 2021 m.); sprendimo, kuriuo galimai pažeistos konstitucinės teisės, ir jį priėmusio subjekto (5 punktas); aplinkybių, patvirtinančių gynybos priemonių išnaudojimą ir galutinį teismo sprendimą (6 punktas); aplinkybių dėl termino arba prašymo atnaujinti praleistą terminą (7 punktas); teisinių argumentų, įskaitant tai, kaip buvo pažeistos asmens teisės (10 punktas). 5–7 ir 10 punktai atitinka 65 straipsnio antrosios dalies sąlygas.
 
@@ -268,7 +268,7 @@ Procesinė kontrolė: išankstinį tyrimą atliekantis teisėjas tikrina atitikt
 
 *e-TAR redakcinė pastaba:* Papildyta straipsniu: Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 
-67² straipsnis (šaltinyje – „672“) į įstatymą įrašytas 2019 m. liepos 16 d. įstatymu Nr. XIII-2328 kartu su individualiu kreipimusi ir reguliuoja teismo sprendimo vykdymo sustabdymą.
+67² straipsnis į įstatymą įrašytas 2019 m. liepos 16 d. įstatymu Nr. XIII-2328 kartu su individualiu kreipimusi ir reguliuoja teismo sprendimo vykdymo sustabdymą.
 
 Pirmoji dalis nustato bendrą taisyklę: individualaus prašymo padavimas ir jo priėmimas nagrinėti nesustabdo teismo sprendimo vykdymo. Tai atitinka 65 straipsnio antrosios dalies logiką – Konstitucinis Teismas nėra apeliacinė instancija, o kreipimasis į jį nepaneigia teismo sprendimo galutinumo. Taisyklė taip pat apsaugo nuo piktnaudžiavimo, kai individualus prašymas būtų teikiamas tik siekiant atidėti vykdymą.
 
@@ -488,7 +488,7 @@ Vados reikalavimas reiškia, kad Teismas negali pradėti išvados rengimo savo i
 >
 > Prie paklausimo gali būti pridėtas siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir ekspertų sąrašas, specialistų išvados, dokumentas apie atstovų įgaliojimus ir jų teisę kalbėti Konstituciniame Teisme pareiškėjo vardu, taip pat kiti dokumentai ir medžiaga. Prie kiekvieno liudytojo pavardės nurodoma, kokias aplinkybes jis gali patvirtinti.
 >
-> Paklausimas ir būtini jo priedai pateikiami Konstituciniam Teismui su nuorašais po 9 egzempliorius. Konstitucinio Teismo pirmininkas prireikus gali pareikalauti ir kitų priedų nuorašų – iki 9 egzempliorių. Tais atvejais, kai paklausimas ir būtini jo priedai pateikiami per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis elektronine forma, reikalavimas pateikti 9 egzempliorius netaikomas. Paklausimai ir jų priedai Konstituciniam Teismui pateikiami šio įstatymo 411 straipsnyje nustatyta tvarka.
+> Paklausimas ir būtini jo priedai pateikiami Konstituciniam Teismui su nuorašais po 9 egzempliorius. Konstitucinio Teismo pirmininkas prireikus gali pareikalauti ir kitų priedų nuorašų – iki 9 egzempliorių. Tais atvejais, kai paklausimas ir būtini jo priedai pateikiami per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis elektronine forma, reikalavimas pateikti 9 egzempliorius netaikomas. Paklausimai ir jų priedai Konstituciniam Teismui pateikiami šio įstatymo 41¹ straipsnyje nustatyta tvarka.
 
 *e-TAR redakcinė pastaba:* [4 d. 3 p.] Straipsnio punkto pakeitimai: Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 
@@ -500,7 +500,7 @@ Antroji dalis numato, kad Seimo paklausimas gali būti išdėstytas nutarime, o 
 
 Ketvirtoji dalis nustato privalomus priedus: tarptautinės sutarties viso teksto nuorašą, įrodymus ir pareigūnų sprendimų nuorašus, patvirtintus vertimus į lietuvių kalbą (3 punktas pakeistas 2019 m.; plg. 20 straipsnį). Priedų pobūdis priklauso nuo paklausimo rūšies – sutarties tekstas reikalingas tik 73 straipsnio 3 punkto atveju. Dėl Prezidento sveikatos būklės pridedama gydytojų komisijos išvada (78 straipsnio antroji dalis).
 
-Penktoji dalis leidžia pridėti siūlomų liudytojų ir ekspertų sąrašą, specialistų išvadas, atstovų įgaliojimus ir kitą medžiagą (plg. 66 straipsnio ketvirtąją dalį). Šeštoji dalis nustato egzempliorių skaičių: paklausimas ir būtini priedai pateikiami su nuorašais po 9 egzempliorius (pagal teisėjų skaičių, 4 straipsnis), pirmininkas gali pareikalauti kitų priedų nuorašų. Teikiant elektroniniu būdu, šis reikalavimas netaikomas; pateikimo būdui taikomas 41¹ straipsnis (šaltinyje – „411“). Šeštoji dalis pakeista 2015 ir 2021 m.
+Penktoji dalis leidžia pridėti siūlomų liudytojų ir ekspertų sąrašą, specialistų išvadas, atstovų įgaliojimus ir kitą medžiagą (plg. 66 straipsnio ketvirtąją dalį). Šeštoji dalis nustato egzempliorių skaičių: paklausimas ir būtini priedai pateikiami su nuorašais po 9 egzempliorius (pagal teisėjų skaičių, 4 straipsnis), pirmininkas gali pareikalauti kitų priedų nuorašų. Teikiant elektroniniu būdu, šis reikalavimas netaikomas; pateikimo būdui taikomas 41¹ straipsnis. Šeštoji dalis pakeista 2015 ir 2021 m.
 
 Reikalavimų neatitinkantis paklausimas grąžinamas pareiškėjui (81 straipsnis). Rinkimų bylose dėl trumpų terminų (77 straipsnis) paklausimo kokybė ypač svarbi, nes grąžinus jį pakartotinai pateikti laiku gali būti neįmanoma.
 

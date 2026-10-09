@@ -393,7 +393,7 @@ Penktoji dalis yra profesinio tęstinumo garantija: pasibaigus įgaliojimų laik
 
 *e-TAR redakcinė pastaba:* Įstatymas papildytas straipsniu: Nr. X-1806, 2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
 
-16¹ straipsnis (šaltinyje dėl prarastos viršutinės indeksacijos žymimas „161“) reguliuoja teisėjų kasmetines atostogas. Į įstatymą jis įrašytas 2008 m. lapkričio 11 d. įstatymu Nr. X-1806.
+16¹ straipsnis reguliuoja teisėjų kasmetines atostogas. Į įstatymą jis įrašytas 2008 m. lapkričio 11 d. įstatymu Nr. X-1806.
 
 Pirmoji dalis nustato 28 kalendorinių dienų kasmetines atostogas ir jų pailginimą: teisėjams, turintiems daugiau kaip penkerių metų teisėjo darbo stažą, už kiekvienus paskesnius darbo teisėju metus atostogos pailginamos viena kalendorine diena, tačiau bendra trukmė negali viršyti 56 kalendorinių dienų. Atostogos skaičiuojamos kalendorinėmis, o ne darbo dienomis.
 

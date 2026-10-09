@@ -340,7 +340,7 @@ Slaptumo reikalavimas atitinka 18 straipsnio septintąją dalį, pagal kurią pa
 
 *e-TAR redakcinė pastaba:* Įstatymas papildytas straipsniu: Nr. XI-1783, 2011-12-06, Žin., 2011, Nr. 154-7262 (2011-12-17)
 
-53¹ straipsnis (šaltinyje žymimas „531“) į įstatymą įrašytas 2011 m. gruodžio 6 d. įstatymu Nr. XI-1783 ir įtvirtina rašytinį procesą. Pirmoji dalis nustato, kad bylą rengiantis teisėjas, nustatęs pakankamai duomenų nagrinėti bylą raštu, tvarkomajame posėdyje (28 straipsnis) siūlo priimti tokį sprendimą. Teisėjas prieš tai išsiaiškina dalyvaujančių asmenų nuomonę (27 straipsnio antrosios dalies 6 punktas), tačiau ji Teismo nesaisto.
+53¹ straipsnis į įstatymą įrašytas 2011 m. gruodžio 6 d. įstatymu Nr. XI-1783 ir įtvirtina rašytinį procesą. Pirmoji dalis nustato, kad bylą rengiantis teisėjas, nustatęs pakankamai duomenų nagrinėti bylą raštu, tvarkomajame posėdyje (28 straipsnis) siūlo priimti tokį sprendimą. Teisėjas prieš tai išsiaiškina dalyvaujančių asmenų nuomonę (27 straipsnio antrosios dalies 6 punktas), tačiau ji Teismo nesaisto.
 
 Antroji dalis, pakeista 2019 m. liepos 16 d. įstatymu Nr. XIII-2328, nustato, kad byla nagrinėjama rašytinio proceso tvarka, išskyrus atvejus, kai Teismas nusprendžia, kad būtinas žodinis nagrinėjimas. Tokia formuluotė rašytinį procesą daro pagrindine forma, o žodinį – išimtimi. Tai atitinka 30 straipsnį: kai sprendžiami tik teisės klausimai, žodinis įrodymų tyrimas dažnai nėra būtinas.
 
